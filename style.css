@@ -1,0 +1,452 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+nav{
+    height: 4rem;
+    width: 100%;
+    border: 2px solid black;
+    background-color: rgba(41,44,49,255);
+    
+
+
+}
+.back{
+    height: 2.5rem;
+    width: 5.5rem;
+    border: 0px solid white;
+    margin-left: 20px;
+    margin-top: 12.5px ;
+    background-color: rgba(63,63,63,255);
+    color: white;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.landing{
+    height: 2.5rem;
+    width: 7.5rem;
+    border: 0px solid white;
+    margin-left: 35%;
+    margin-top: 12.5px ;
+    background-color: rgba(63,63,63,255);
+    color: white;
+    font-size: small;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.success{
+    height: 2.5rem;
+    width: 7.5rem;
+    border: 0px solid white;
+    margin-left: 0px;
+    margin-top: 12.5px ;
+    background-color: transparent;
+    color: white;
+  cursor: pointer;
+  border-radius: 3px;
+    
+}
+
+.timmer{
+    height: 2.5rem;
+    width: 3rem;
+    border: 0px solid white;
+    margin-left: 120px;
+    margin-top: 12.5px ;
+    background-color: rgba(63,63,63,255) ;
+    color: white;
+  cursor: pointer;
+  font-size: small;
+  border-radius: 3px;
+}
+.action{
+    height: 2.5rem;
+    width: 5rem;
+    border: 0px solid white;
+    margin-left: 1rem;
+    margin-top: 12.5px ;
+    background-color: rgba(63,63,63,255);
+    color: white;
+    font-size: small;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.preview{
+    height: 2.5rem;
+    width: 5rem;
+    border: 0px solid white;
+    margin-left: 1rem;
+    margin-top: 12.5px ;
+    background-color: rgba(63,63,63,255);
+    color: white;
+    font-size: small;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.save{
+    height: 2.5rem;
+    width: 10rem;
+    border: 0px solid white;
+    margin-left: 1rem;
+    margin-top: 12.5px ;
+    background-color: rgba(4,194,105,255);
+    color: white;
+    font-size: small;
+    cursor: pointer;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+.arrow{
+    height: 2.5rem;
+    width: 3rem;
+    border: 0.5px solid rgba(63,63,63,255) ;
+    margin-left: -0.8rem;
+    margin-top: 12.5px ;
+    background-color: rgba(4,194,105,255);
+    color: white;
+    font-size: small;
+    cursor: pointer;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+
+    
+}
+
+.logo{
+    height: 5rem;
+    width: 65%;
+   
+    border: 0px solid black;
+  
+
+}
+.img{
+    height: 5rem;
+    width: 65%;
+   
+    background-image: url(./asset/pngtree-green-tea-logo-png-image_6383759.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 50px;
+   
+   
+}
+.tea{
+    height: 5rem;
+    width: 25rem;
+    border: 0px solid black;
+    margin-left: 545px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    cursor: pointer;
+    color: #868686;
+    
+    
+    
+}
+.chai:hover{
+    color: red;
+}
+.contact:hover{
+    color: red;
+}
+.subs:hover{
+    color: red;
+}
+
+
+
+
+
+.main-block{
+    height: 35.5rem;
+    width: 60rem;
+    border: 1px solid transparent;
+    display: flex;
+    align-items: center;
+    
+    
+}
+
+
+
+
+
+
+.warm{
+   height: 20rem;
+   width: 20rem;
+   border: 0px solid black;
+   background-color: transparent;
+   margin-top: 2rem;
+   margin-left: 5rem;
+     justify-content: center;
+   align-items: center;
+   font-size: larger;
+   line-height: 18px;
+
+}
+
+p{
+    margin-top: 30px;
+    font-size: 15px;
+    color: #afafaf;
+}
+.order{
+    height: 2.5rem;
+    width: 8rem;
+    border: 0px solid white;
+   
+    background-color: #e6de95;
+    color: black;
+    font-size: medium;
+    cursor: pointer;
+    border-radius: 3px;
+    margin-top: 1rem;
+}
+.second-block{
+    height: 35.5rem;
+    width: 31.2rem;
+    border: 1px solid transparent;
+    margin-left: 4rem;
+    
+  
+     
+    
+}
+.img2{
+    height: 35.5rem;
+    width: 20rem;
+    border: 1px solid transparent ;
+    margin-left: 11rem;
+    background-color: #e6de95;
+    border-radius: 2px;
+}
+
+.img3{
+    height: 28.5rem;
+    width: 22rem;
+    border: 1px solid transparent;
+    margin-left: -12rem;
+    margin-top: 4rem;
+    background-image: url(./asset/Capture.PNG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.box{
+    height: 40.5rem;
+    width: 35.5rem;
+    border: 0px solid black;
+    margin-top: -9rem;
+    margin-left: 32rem;
+   
+}
+
+.first{
+    height: 5rem;
+    width: 100%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.block{
+    height: 4rem;
+    width: 92%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgba(227,230,235,255);
+    
+}
+.blocks{
+    height: 2.8rem;
+    width: 10rem;
+    border: 0px solid red;
+    color: #78b695;
+    
+    font-weight: bold;
+    border-radius: 2px;
+
+}
+.set{
+    
+        height: 2.8rem;
+        width: 10rem;
+        border: 0px solid red;
+        color: #a9adaf;
+        
+        font-weight: bold;
+        border-radius: 2px;
+        background-color: transparent;
+    
+    
+}
+.second{
+    height: 4rem;
+    width: 100%;
+    border: 0px solid #868686;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.search{
+    height: 2.5rem;
+    width: 80%;
+    border: 2px solid rgba(227,230,235,255);
+    border-radius: 3px;
+
+}
+.box2{
+    height: 2.5rem;
+    width: 1rem;
+    border: 0px solid black;
+    border-radius: 3px;
+    margin-left: -1.5rem;
+    margin-top: .5rem;
+}
+.search2{
+    height: 2.5rem;
+    width: 2.5rem;
+    border: 1px solid rgba(227,230,235,255);
+    border-radius: 2px;
+    margin-left: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgba(227,230,235,255);
+}
+.first-box{
+    height: 8rem;
+    width: 100%;
+    border: 1px solid rgba(227,230,235,255);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.second-box{
+    height: 8rem;
+    width: 100%;
+    border: 1px solid rgba(227,230,235,255);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.third-box{
+    height: 8rem;
+    width: 100%;
+    border: 1px solid rgba(227,230,235,255);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.fourth-box{
+    height: 8rem;
+    width: 100%;
+    border: 1px solid rgba(227,230,235,255);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+.dabba1{
+    height: 6rem;
+    width: 6rem;
+    border: 2px solid rgba(227,230,235,255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.dabba2{
+    height: 6rem;
+    width: 6rem;
+    border: 2px solid rgba(227,230,235,255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dabba3{
+    height: 6rem;
+    width: 6rem;
+    border: 2px solid rgba(227,230,235,255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dabba4{
+    height: 6rem;
+    width: 6rem;
+    border: 2px solid rgba(227,230,235,255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cd1{
+    height: 2rem;
+    width: 3rem;
+    border: 1px solid black;
+    background: url(./asset/55145543-text-file-icon.jpg);
+    margin-bottom: 1.5rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+
+.cd2{
+    height: 2rem;
+    width: 3rem;
+    border: 1px solid black;
+    background: url(./asset/55145543-text-file-icon.jpg);
+    margin-bottom: 1.5rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+
+.cd3{
+    height: 2rem;
+    width: 3rem;
+    border: 1px solid black;
+    background: url(./asset/55145543-text-file-icon.jpg);
+    margin-bottom: 1.5rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+
+.cd4{
+    height: 2rem;
+    width: 3rem;
+    border: 1px solid black;
+    background: url(./asset/55145543-text-file-icon.jpg);
+    margin-bottom: 1.5rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+
+
+.txt1{
+    height: 1rem;
+    width: 100%;
+    border: 1px solid black;
+     
+}
+
+
